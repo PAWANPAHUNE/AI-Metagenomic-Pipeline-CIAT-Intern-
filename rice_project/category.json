@@ -1,0 +1,69 @@
+{
+  "Ammonia_Oxidizers_AOA": [
+    "Nitrosocosmicus sp.",
+    "Nitrososphaera sp."
+  ],
+  "Nitrite_Oxidizers_NOB": [
+    "Nitrospira japonica",
+    "Nitrospira sp."
+  ],
+  "Azotobacter_and_Free_Living_N_Fixers": [
+    "Azotobacter chroococcum",
+    "Azotobacter tropicalis",
+    "Clostridium sp.",
+    "Neobacillus niacini"
+  ],
+  "Azospirillum_and_Associative_N_Fixers": [
+    "Azospira restricta",
+    "Azovibrio sp.",
+    "Azoarcus tolulyticus"
+  ],
+  "Rhizobium_and_Symbiotic_N_Fixers": [
+    "Microvirga sp.",
+    "Hyphomicrobium sp.",
+    "Rhodoplanes sp.",
+    "Pedomicrobium sp.",
+    "Reyranella sp."
+  ],
+  "Pseudomonas_and_PGPR": [
+    "Pseudomonas peli",
+    "Sphingomonas sp."
+  ],
+  "Actinomycetes_Organic_Decomposers": [
+    "Ilumatobacter sp.",
+    "Luedemannella sp.",
+    "Micromonospora sp.",
+    "Nocardioides sp.",
+    "Haloactinopolyspora sp.",
+    "Crossiella sp.",
+    "Rubrobacter sp.",
+    "Gaiella sp.",
+    "Solirubrobacter sp."
+  ],
+  "Acidobacteria": [
+    "Bryobacter sp.",
+    "Solibacter sp.",
+    "Blastocatella sp.",
+    "Luteitalea sp."
+  ],
+  "Myxobacteria": [
+    "Anaeromyxobacter sp.",
+    "Haliangium sp."
+  ],
+  "Planctomycetes": [
+    "Gemmata sp.",
+    "Pirellula sp."
+  ],
+  "Other_Proteobacteria": [
+    "Defluviicoccus sp.",
+    "Aquabacterium limnoticum",
+    "Hydrogenophaga sp.",
+    "Ramlibacter ginsenosidimutans",
+    "Povalibacter uvarum",
+    "Steroidobacter sp."
+  ],
+  "Anaerobic_Reducers_and_Spirochaetes": [
+    "Geoalkalibacter sp.",
+    "Treponema sp."
+  ]
+}
